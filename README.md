@@ -1,4 +1,4 @@
-# training_test_1_saucedemo
+# training_QAtest_1_saucedemo
 ## Данный тест составлен без применения методологии ООП.
 ## Задачи:
 - 1.Авторизоваться на сайте [saucedemo](https://www.saucedemo.com/)
